@@ -1,0 +1,4 @@
+sample为采样代码
+sample_EDA为数据探索代码
+feature_stat_nn_0.763为特征工程代码
+w2v_and_tfidf为对特征做嵌入和tfidf代码
